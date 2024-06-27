@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @demsdivo11
-- 👀 I’m interested in ...
+- 👀 I’m interested in Software Developer And Web Developer
 - 🌱 I’m currently learning C++ And Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: Hmm
+- 😄 Pronouns: KARTIKA EKA PAKSI
 - ⚡ Fun fact: Noob Coders
 
 <!---
