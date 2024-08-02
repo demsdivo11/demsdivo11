@@ -25,3 +25,6 @@ Saya seorang **C++ Developer** dan **Frontend Developer** yang berusia 15 tahun.
 - **Email**: dhemasdhiyanugraha@gmail.com
 - **WhatsApp**: +6283111515287
 - **Website**: https://dems.my.id
+- **LinkedIn**: dhemas-dhiyanugraha-divonegara
+
+Copyright by dems 2024
