@@ -1,7 +1,7 @@
 # 👋 Halo! Saya Dhemas Dhiyanugraha Divonegara
 
 ## Tentang Saya
-Saya seorang **C++ Developer** dan **Frontend Developer** yang berusia 15 tahun. Saya memiliki minat besar dalam pengembangan perangkat lunak dan teknologi terbaru. Saya senang mempelajari bahasa pemrograman baru dan terus mengembangkan keterampilan saya dalam bidang ini.
+Saya seorang **C++ Developer** dan **Frontend Developer** yang berusia 15 tahun. Saya memiliki minat besar dalam pengembangan perangkat lunak dan teknologi terbaru. Saya senang mempelajari bahasa pemrograman baru dan terus mengembangkan keterampilan saya dalam bidang ini, Saya Lahir Di Bandung Pada 2009 Bulan Mei 2009
 
 ## Bahasa Pemrograman yang Saya Kuasai
 
