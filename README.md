@@ -1,5 +1,5 @@
 # 👋 Halo! Saya Dhemas Dhiyanugraha Divonegara
-
+![demsdivo11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demsdivo11&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 ## Tentang Saya
 Saya seorang **C++ Developer** dan **Frontend Developer** yang berusia 15 tahun. Saya memiliki minat besar dalam pengembangan perangkat lunak dan teknologi terbaru. Saya senang mempelajari bahasa pemrograman baru dan terus mengembangkan keterampilan saya dalam bidang ini. Saya lahir di Bandung pada Mei 2009.
 
